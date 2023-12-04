@@ -1,0 +1,1 @@
+Este é meu bot experimental do discord! Criei ele com o objetivo no momento apenas de estudar melhor e testar as funcionalidades da biblioteca, por isso, pode apresentar alguns bugs ! xd
